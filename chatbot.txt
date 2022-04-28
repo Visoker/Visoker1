@@ -1,0 +1,7 @@
+while True:
+ a=input()
+ if a in ["hi","hii","helo"]:
+  print("hi")
+ elif a=="How are You?":
+  print("I am good now get lost")
+  break
